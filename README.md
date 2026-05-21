@@ -12,20 +12,20 @@ Capture and document what you learned from any task — new tools, technologies,
 **One-line install:**
 
 ```bash
-gh repo clone chethanbhatbs/learnings-skill ~/.claude/skills/learnings
+gh repo clone chethanbhatbs/synapse-skill ~/.claude/skills/synapse
 ```
 
 **Manual install:**
 
 ```bash
-git clone https://github.com/chethanbhatbs/learnings-skill.git
-cp -r learnings-skill/ ~/.claude/skills/learnings/
+git clone https://github.com/chethanbhatbs/synapse-skill.git
+cp -r learnings-skill/ ~/.claude/skills/synapse/
 ```
 
 **Verify it's installed:**
 
 ```bash
-ls ~/.claude/skills/learnings/
+ls ~/.claude/skills/synapse/
 ```
 
 You should see `SKILL.md` (and any other skill files).
@@ -57,7 +57,7 @@ Skills are markdown files in `~/.claude/skills/` that give Claude Code specializ
 ## Uninstall
 
 ```bash
-rm -rf ~/.claude/skills/learnings
+rm -rf ~/.claude/skills/synapse
 ```
 
 ## License
