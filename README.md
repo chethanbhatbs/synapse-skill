@@ -1,6 +1,6 @@
-# Learnings — Claude Code Skill
+# Learnings - Claude Code Skill
 
-Capture and document what you learned from any task — new tools, technologies, skills, concepts, or insights.
+Capture and document what you learned from any task - new tools, technologies, skills, concepts, or insights.
 
 ## Prerequisites
 
@@ -33,8 +33,8 @@ You should see `SKILL.md` (and any other skill files).
 ## Usage
 
 ```
-/learnings              # Capture learnings from current task
-/learnings [topic]      # Capture learnings about a specific topic
+/learnings # Capture learnings from current task
+/learnings [topic] # Capture learnings about a specific topic
 ```
 
 ### What it does
@@ -63,5 +63,5 @@ rm -rf ~/.claude/skills/synapse
 ---
 
 <p align="center">
-  <sub>Built with <a href="https://emergent.sh">Emergent</a> + <a href="https://claude.ai/code">Claude Code</a> · refined by hand</sub>
+ <sub>Built with <a href="https://emergent.sh">Emergent</a> + <a href="https://claude.ai/code">Claude Code</a> · refined by hand</sub>
 </p>
